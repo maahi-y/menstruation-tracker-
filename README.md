@@ -5,7 +5,7 @@ A simple Python program that allows users to track their menstrual cycle, record
 
 ---
 
-Features
+Features:
 
 Record the start date of the last period
 
